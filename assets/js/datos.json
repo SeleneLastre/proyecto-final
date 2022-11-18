@@ -1,0 +1,51 @@
+{
+	"productos": [
+		{
+			"id": 1,
+			"nombre": "Black Hoodie",
+			"descripcion": "hoodie de frisa para invierno",
+			"precio": 7500,
+			"stock": 10,
+			"img": "blackhoode.JPG",
+			"destacado": 1
+		},
+
+		{
+			"id": 2,
+			"nombre": "Manguitas",
+			"descripcion": "tejidas a mano por nosotros",
+			"precio": 6000,
+			"stock": 20,
+			"img": "manguitas.JPG",
+			"destacado": 1
+		},
+		{
+			"id": 3,
+			"nombre": "Buzo Retro Beige",
+			"descripcion": "Buzo inspirado en los 90, Hecho de tela rustica ideal para el verano, sus mangas son 3/4.",
+			"precio": 6000,
+			"stock": 2,
+			"img": "retrobeige.JPG",
+			"destacado": 1
+		},
+
+		{
+			"id": 4,
+			"nombre": "Ice Hoodie",
+			"descripcion": "Frisa Rustica, ideal para el verano.",
+			"precio": 7500,
+			"stock": 2,
+			"img": "icehoodie.JPG",
+			"destacado": 1
+		},
+		{
+			"id": 5,
+			"nombre": "Buzo Retro Cuello Tortuga",
+			"descripcion": "frisa de invierno",
+			"precio": 6500,
+			"stock": 0,
+			"img": "retrocuellot.JPG",
+			"destacado": 1
+		}
+	]
+}
